@@ -7,7 +7,7 @@
 - 🌱 learning more about **Artificial Intelligence and Machine Learning**.
 - 📚 *Tech is my playground, and I thrive on discovering its hidden gems and pushing its boundaries to new frontiers.*
 - 📫 How to reach me :
-  * [![Gmail Badge](https://img.shields.io/badge/-connectwithjatinupadhyay@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:malikkhyati@03@gmail.com)](mailto:connectwithjatinupadhyay@gmail.com)
+  * [![Gmail Badge](https://img.shields.io/badge/malikkhyati03@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:malikkhyati@03@gmail.com)](mailto:malikkhyati03@gmail.com)
   * [![Linkedin Badge](https://www.linkedin.com/in/khyati-malik-a0085028a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 # 📫 Connect With Me:
