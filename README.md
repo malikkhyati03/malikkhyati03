@@ -33,7 +33,7 @@
 
 <h3 align="left">Coder Profiles:</h3>
 <p align="left"> 
-<a href="https://leetcode.com/jatinupadhyayy" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png" alt="Leetcode" height="30"/> </a>
+<a href="https://leetcode.com/khyatii24/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png" alt="Leetcode" height="30"/> </a>
 &emsp;&emsp;
 </p>
 <hr></hr>
